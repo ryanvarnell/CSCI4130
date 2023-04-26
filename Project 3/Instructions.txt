@@ -1,0 +1,16 @@
+Team Members: Ryan Varnell, varnellr18@students.ecu.edu
+
+**Instructions for compiling and running the program**
+As long as you have the latest version of Java, it should run just fine.
+
+The program will need access to the Cranfield collection's 'cran.qry', 'cran-1.all.1400', and 'cranqrel' files.
+The assumed directory structure is something like:
+
+|[Parent Folder]
+|   |[src]
+|   |   ProjectThree.java
+|   cran.qry
+|   cran-1.all.1400
+|   cranqrel
+
+I was able to successfully automate testing the queries, but I think my MAP calculator is broken.
