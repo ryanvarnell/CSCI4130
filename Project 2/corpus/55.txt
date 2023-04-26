@@ -1,0 +1,3 @@
+Like similar systems, ChatGPT can produce strong writing. But that does not mean what it says is factual or makes sense.
+
+Its launch came with little guidance for how to use it. But the program will admit when it is wrong. It will also question “incorrect premises” and reject requests meant to bring about offensive answers.
